@@ -1,0 +1,5 @@
+config.txt			-> /boot/
+dt-blob.bin			-> /boot/
+gamepad.dtbo		-> /boot/overlays/
+99-keyboard.rules	-> /etc/udev/rules.d/
+retroarch.cfg		-> /opt/retropie/configs/all/
